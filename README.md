@@ -1,0 +1,6 @@
+# RedisTest
+redis的学习
+redis操作不同类型的数据
+redis连接池的使用
+redis连接池工具类的使用
+结合ajax通过redis实现下拉列表的加载
